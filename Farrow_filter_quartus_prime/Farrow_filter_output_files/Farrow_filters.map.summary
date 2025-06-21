@@ -1,0 +1,20 @@
+Analysis & Synthesis Status : Successful - Mon May  8 17:41:29 2023
+Quartus Prime Version : 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+Revision Name : Farrow_filters
+Top-level Entity Name : Farrow_Canonic
+Family : Arria II GX
+Logic utilization : N/A
+    Combinational ALUTs : 603
+    Memory ALUTs : 0
+    Dedicated logic registers : 410
+Total registers : 410
+Total pins : 48
+Total virtual pins : 0
+Total block memory bits : 152
+DSP block 18-bit elements : 12
+Total GXB Receiver Channel PCS : 0
+Total GXB Receiver Channel PMA : 0
+Total GXB Transmitter Channel PCS : 0
+Total GXB Transmitter Channel PMA : 0
+Total PLLs : 0
+Total DLLs : 0
